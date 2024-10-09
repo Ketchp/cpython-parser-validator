@@ -1,0 +1,8 @@
+compiled_AST
+
+# python
+.venv
+__pycache__
+
+# IDE ignore
+.idea

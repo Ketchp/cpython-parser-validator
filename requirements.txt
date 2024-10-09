@@ -1,0 +1,15 @@
+boto3~=1.35.34
+urllib3==2.2.3
+setuptools==75.1.0
+requests==2.32.3
+certifi==2024.8.30
+idna==3.10
+charset-normalizer==3.3.2
+typing-extensions==4.12.2
+python-dateutil==2.9.0.post0
+packaging==24.1
+six==1.16.0
+pyyaml==6.0.2
+fsspec==2024.9.0
+cryptography==43.0.1
+flask==3.0.3
