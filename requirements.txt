@@ -1,3 +1,6 @@
+scipy==1.14.1
+
+# these requirements are here to get suitable files for parsing
 boto3~=1.35.34
 urllib3==2.2.3
 setuptools==75.1.0
